@@ -49,7 +49,9 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects sp
 ### 15. 🗺️ MapperIO - Google Map Alternative
 - This uses ArcGIS API for creating a webpage that hosts map data and provides much more improved responses in comparison to Google Maps. It is also able to provide at the most of 8 basemaps and is able to provide a navigation system for the same as well. The code for this is not available here as it was built on a different system.
 
-[![ArkTrek's GitHub | Topics Over Time](https://stats.quine.sh/ArkTrek/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArkTrek)
+[![ArkTrek's GitHub | Topics Over Time](https://stats.quine.sh/ArkTrek/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArkTrek) 
+
+[![ArkTrek's GitHub | Languages Over Time](https://stats.quine.sh/ArkTrek/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArkTrek)
 
 ## ⚠️ Note
 - The full code for all these projects is not uploaded here due to security risks and potential misuse by users with bad purposes. Additionally, the code for each project is not complete and may contain bugs.
