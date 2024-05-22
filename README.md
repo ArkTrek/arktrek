@@ -46,7 +46,7 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects sp
 ### 14. 🔬 Resistor Detection and Value Interpreter
 - This detects the type of electronic component present in a camera frame. Namely detects capacitors, LEDs, resistors, transistors, and if the detected component is a resistor, it predicts the measure of resistance based on the color bands by detecting contour lines of the color bands and determining the colors using HSV using Python. Then calculating the resistance value accordingly. The accuracy of the value is not 90%.
 
-### 15. 🗺️ ArcGIS - Google Map Alternative
+### 15. 🗺️ MapperIO - Google Map Alternative
 - This uses ArcGIS API for creating a webpage that hosts map data and provides much more improved responses in comparison to Google Maps. It is also able to provide at the most of 8 basemaps and is able to provide a navigation system for the same as well. The code for this is not available here as it was built on a different system.
 
 ## ⚠️ Note
