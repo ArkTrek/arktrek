@@ -62,7 +62,7 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects sp
 
 ## 📧 Contact
 
-- For any questions or collaboration opportunities, you can reach me at [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com).
+- For any questions or collaboration opportunities, you can reach me at [Arpit R](mailto:arpitramesan777@gmail.com).
 
 ## ⭐ Acknowledgments
 
