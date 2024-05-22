@@ -16,8 +16,8 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects sp
 ### 4. 🚗 Vehicle Detection Using ML
 - This project basically uses pretrained models to detect vehicles and classifies the same as moving objects. Based on the extracted features, we are able to determine the type of vehicle it is as well. But as similar to the face detection one, this also is a very simple project to build from scratch.
 
-### 5. ✍️ Handwriting Detection Using ML
-- Recognizes handwritten text from images, enabling digital conversion of handwritten notes.
+## 5. ✍️ Handwriting Detection Using ML
+- This project utilizes machine learning algorithms to recognize handwritten text from images, enabling the digital conversion of handwritten notes.
 
 ### 6. 👁️ Eye Disease Detection
 - It uses fundus images as input and based on the patterns trained using them, we can predict the disease happening in the eye. This method uses ML as well and is used to automatically contact doctors if based on the detected eye disease. This works based on the corresponding program alone.
