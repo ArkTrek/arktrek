@@ -29,7 +29,7 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects sp
 - A system in which a camera is focused at an area. Based on this areas range, whenever a certain animal is seen in the camera, it shows which type of animal it is and based on this detection using speakers gives certain noises as output to make them go away. This uses IoT and ML.
 
 ### 9. ✋ Gesture Recognition
-- The gesture recognition system uses a MediaPipe library within Python and uses OpenCV to utilize video processing accordingly. It uses CSV labeling method for training datasets using OpenCV as input. It then uses Google Colab for training and based on that generates a model file that can be used to detect live gestures. Number of gestures detected = 10. Gestures are "Hi", "Close", "Pointer", "Love", "Done", "No", "Awesome", "Longlive", "Peace", "Hello".
+- The gesture recognition system uses a MediaPipe library within Python and uses OpenCV to utilize video processing accordingly. It uses CSV labeling method for training datasets using OpenCV as input. It then uses Google Colab for training and based on that generates a model file that can be used to detect live gestures. Number of gestures detected - [10]. They are "Hi", "Close", "Pointer", "Love", "Done", "No", "Awesome", "Longlive", "Peace", "Hello".
 
 ### 10. 🍃 Leaf Disease Detection
 - This gives the type of disease a leaf has and prints it using OpenCV accordingly. It mainly focuses only on apple, blueberry, cherry, corn, grape, orange, peach, bell pepper, potato, tomato.
