@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on webpage portfolio building<br>👯 I’m looking to collaborate on AI/ML<br>🤝 I’m looking for help with front end dev<br>🌱 I’m currently learning unreal engine 3D<br>💬 Ask me about almost anything related to computers and science.<br>⚡ Fun fact: Bananas don't grow on trees!<br>📜 Blogspot(s): [Writes](https://paradoxiworld.blogspot.com), [Photography](https://paradoxiarc.blogspot.com)& [Tech](https://cybersyst.blogspot.com). <br>🗣️ Podcast: [Arpits Podcast](https://spoti.fi/3WnUHOg)
+🔭 I’m currently working on webpage portfolio building<br>👯 I’m looking to collaborate on AI/ML<br>🤝 I’m looking for help with front end dev<br>🌱 I’m currently learning unreal engine 3D<br>💬 Ask me about almost anything related to computers and science.<br>⚡ Fun fact: Bananas don't grow on trees!<br>📜 Blogspot(s): [Writes](https://paradoxiworld.blogspot.com), [Photography](https://paradoxiarc.blogspot.com)& [Tech](https://cybersyst.blogspot.com). <br>🎙️ Podcast: [Arpits Podcast](https://spoti.fi/3WnUHOg)
 
 
 ## 🌐 Socials:
