@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on webpage portfolio building<br>👯 I’m looking to collaborate on AI/ML<br>🤝 I’m looking for help with front end dev<br>🌱 I’m currently learning unreal engine 3D<br>💬 Ask me about almost anything related to computers and science.<br>⚡ Fun fact: Bananas don't grow on trees!<br>📜 Blogspot(s):[![Writers]](https://paradoxiworld.blogspot.com) [![Photographers]](https://paradoxiarc.blogspot.com) [![Technical]](https://cybersyst.blogspot.com)
+🔭 I’m currently working on webpage portfolio building<br>👯 I’m looking to collaborate on AI/ML<br>🤝 I’m looking for help with front end dev<br>🌱 I’m currently learning unreal engine 3D<br>💬 Ask me about almost anything related to computers and science.<br>⚡ Fun fact: Bananas don't grow on trees!<br>📜 Blogspot(s):Writers(https://paradoxiworld.blogspot.com), Photographers(https://paradoxiarc.blogspot.com), Technical(https://cybersyst.blogspot.com)
 
 
 ## 🌐 Socials:
