@@ -12,7 +12,8 @@
 ✍️ Featured Poem: [Daffodils: Wingless Dreamer Poetry book](https://www.amazon.com/dp/B08B384K1T)<br>
 🧶 Our Saree Page - [Instagram Page](https://instagram.com/lalsutraofficial)<br>
 ☁️ Telegram Channel - [The Skies](https://t.me/theskis)<br>
-⚡ Fun fact: Bananas don't grow on trees!
+⚡ Fun fact: <!--FUN_FACT-->
+
 
 
 
