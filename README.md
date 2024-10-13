@@ -6,10 +6,11 @@
 🌍 Google Maps Alternative - [ARMAPS](https://armaps.pythonanywhere.com)<br>
 📂 Publication - [DDoS Attack Detection System For WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)<br>
 🛠️ Portfolio - [PORTFOLIO](https://mrplexar.pythonanywhere.com)<br>
-📜 Blogspot(s): [Writes](https://paradoxicworld.blogspot.com), [Photography](https://paradoxicarc.blogspot.com) & [Tech](https://cybersyst.blogspot.com)<br>
+📜 Blogspot(s) - [Writes](https://paradoxicworld.blogspot.com), [Photography](https://paradoxicarc.blogspot.com) & [Tech](https://cybersyst.blogspot.com)<br>
 🎙️ Podcast: [Arpits Podcast](https://spoti.fi/3WnUHOg)<br>
-📖 Written Book(s): [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK), [A Paradoxic Mind](https://a.co/d/b1xIwSh)<br>
-✍️ Featured Poem: [Daffodils: Wingless Dreamer Poetry book](https://www.amazon.com/dp/B08B384K1T)<br>
+🎥 Youtube Channel(s) - [Main](https://www.youtube.com/@mrplexar), [Gaming](https://www.youtube.com/@theplexar2383)
+📖 Written Book(s) - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK), [A Paradoxic Mind](https://a.co/d/b1xIwSh)<br>
+✍️ Featured Poem - [Daffodils: Wingless Dreamer Poetry book](https://www.amazon.com/dp/B08B384K1T)<br>
 🧶 Our Saree Page - [Instagram Page](https://instagram.com/lalsutraofficial)<br>
 ☁️ Telegram Channel - [The Skies](https://t.me/theskis)<br>
 ⚡ Fun fact: <!--FUN_FACT-->
