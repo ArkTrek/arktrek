@@ -1,0 +1,26 @@
+name: Update Fun Fact
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs once daily (adjust as needed)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get random fun fact
+        id: funfact
+        run: |
+          shuf -n 1 fun_facts.txt > fun_fact.txt
+      - name: Update README
+        run: |
+          fun_fact=$(cat fun_fact.txt)
+          sed -i "s|<!--FUN_FACT-->.*|<!--FUN_FACT--> $fun_fact|g" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated fun fact"
+          git push
