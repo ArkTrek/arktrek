@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my Brain Disease Detection System (BDDS)<br>  for detecting 6 different brain diseases using AI/ML.<br>
+🔭 I’m currently working on improving my Brain Disease Detection System (BDDS)<br>  for detecting 6 different brain diseases using MRI Images as input.<br>
 🤝 I’m looking to collaborate on AI/ML.<br>
 🌱 I’m currently learning Unreal Engine 3D.<br>
 💬 Ask me about almost anything related to computers and science.<br>
