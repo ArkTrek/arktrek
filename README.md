@@ -13,7 +13,7 @@
 ✍️ Featured Poem - [Daffodils: Wingless Dreamer Poetry book](https://www.amazon.com/dp/B08B384K1T)<br>
 🧶 Our Saree Page - [Instagram Page](https://instagram.com/lalsutraofficial)<br>
 ☁️ Telegram Channel - [The Skies](https://t.me/theskis)<br>
-💼 Resume - [drive link](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing))<br> 
+💼 Resume - [drive link](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)<br> 
 ⚡ Fun fact: Octopuses have three hearts.
 
 
