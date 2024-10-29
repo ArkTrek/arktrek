@@ -26,7 +26,7 @@ Great! Including that detail will emphasize the published recognition. Here’s 
 ---
 
 ## 📜 Featured Poem:  
-> *The plight of nature,*
+> *The plight of nature,*<br>
 > *Gave the closure,*
 > *Of a thousand words.*
 > *The phoenix which had fled...*
