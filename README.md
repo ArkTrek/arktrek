@@ -1,23 +1,49 @@
+Great! Including that detail will emphasize the published recognition. Here’s an updated version that mentions where the book can be found:
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on improving my Brain Disease Detection System (BDDS)<br>  for detecting 6 different brain diseases using MRI Images as input.<br>
-🤝 I’m looking to collaborate on AI/ML.<br>
-🌱 I’m currently learning Unreal Engine 3D.<br>
-💬 Ask me about almost anything related to computers and science.<br>
-🌍 Google Maps Alternative - [ARMAPS](https://armaps.pythonanywhere.com)<br>
-📂 Publication - [DDoS Attack Detection System For WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)<br>
-🛠️ Portfolio - [PORTFOLIO](https://mrplexar.pythonanywhere.com)<br>
-📜 Blogspot(s) - [Writes](https://paradoxicworld.blogspot.com), [Photography](https://paradoxicarc.blogspot.com) & [Tech](https://cybersyst.blogspot.com)<br>
-🎙️ Podcast: [Arpits Podcast](https://spoti.fi/3WnUHOg)<br>
-🎥 Youtube Channel(s) - [Main](https://www.youtube.com/@mrplexar), [Gaming](https://www.youtube.com/@theplexar2383)<br>
-📖 Written Book(s) - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK), [A Paradoxic Mind](https://a.co/d/b1xIwSh)<br>
-✍️ Featured Poem - [Daffodils: Wingless Dreamer Poetry book](https://www.amazon.com/dp/B08B384K1T)<br>
-🧶 Our Saree Page - [Instagram Page](https://instagram.com/lalsutraofficial)<br>
-☁️ Telegram Channel - [The Skies](https://t.me/theskis)<br>
-💼 Resume - [drive link](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)<br> 
-⚡ Fun fact: Octopuses have three hearts.
+- 🔭 **Current Project:** I'm working on enhancing my Brain Disease Detection System (BDDS), designed to detect six different brain diseases using MRI images as input.  
+- 🤝 **Open to Collaboration:** I'd love to team up on AI/ML projects!  
+- 🌱 **Learning Journey:** Currently diving into Unreal Engine 3D for immersive experiences.  
+- 💬 **Ask Me About:** Anything related to computers, science, and tech!  
+- 🌍 **Google Maps Alternative:** [ARMAPS](https://armaps.pythonanywhere.com)  
+- 📂 **Published Work:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
+- 🛠️ **Portfolio:** [My Projects & Work](https://mrplexar.pythonanywhere.com)  
+- 📜 **Blogspots:**  
+  - **Writings:** [Paradoxic World](https://paradoxicworld.blogspot.com)  
+  - **Photography:** [Paradoxic Arc](https://paradoxicarc.blogspot.com)  
+  - **Tech Insights:** [Cybersyst](https://cybersyst.blogspot.com)  
+- 🎙️ **Podcast:** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
+- 🎥 **YouTube Channels:**  
+  - **Main Channel:** [Mr. Plexar](https://www.youtube.com/@mrplexar)  
+  - **Gaming Channel:** [The Plexar](https://www.youtube.com/@theplexar2383)  
+- 📖 **Books Authored:**  
+  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK)  
+  - [A Paradoxic Mind](https://a.co/d/b1xIwSh)  
+- ✍️ **Featured Poem:** *Daffodils*, published in [Wingless Dreamer Poetry Book](https://www.amazon.com/dp/B08B384K1T) (available on Amazon)  
 
+---
 
+## 📜 Featured Poem:  
+> *The plight of nature,*
+> *Gave the closure,*
+> *Of a thousand words.*
+<br>
+> *The phoenix which had fled...*
+> — *As featured in Wingless Dreamer Poetry Book, available on [Amazon](https://www.amazon.com/dp/B08B384K1T)*
 
+---
+
+- 🧶 **Our Saree Page:** [Lal Sutra on Instagram](https://instagram.com/lalsutraofficial)  
+- ☁️ **Telegram Channel:** [The Skies](https://t.me/theskis)  
+- 💼 **Resume:** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
+
+---
+
+- ⚡ **Fun Fact:** Did you know octopuses have three hearts?
+
+---
 
 
 ## 🌐 Socials:
