@@ -30,7 +30,7 @@ Great! Including that detail will emphasize the published recognition. Here’s 
 > *Gave the closure,*
 > *Of a thousand words.*
 > *The phoenix which had fled...*
-> — *As featured in Wingless Dreamer Poetry Book, available on [Amazon](https://www.amazon.com/dp/B08B384K1T)*
+> — <br>*As featured in Wingless Dreamer Poetry Book, available on [Amazon](https://www.amazon.com/dp/B08B384K1T)*
 
 ---
 
