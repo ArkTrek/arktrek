@@ -1,7 +1,3 @@
-Great! Including that detail will emphasize the published recognition. Here’s an updated version that mentions where the book can be found:
-
----
-
 # 💫 About Me:
 - 🔭 **Current Project:** I'm working on enhancing my Brain Disease Detection System (BDDS), designed to detect six different brain diseases using MRI images as input.  
 - 🤝 **Open to Collaboration:** I'd love to team up on AI/ML projects!  
