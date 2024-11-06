@@ -5,7 +5,7 @@
 - 💬 **Ask Me About:** Anything related to computers, science, and tech!  
 - 🌍 **Google Maps(Alt) - My Version:** [ARMAPS](https://armaps.pythonanywhere.com)  
 - 📂 **Publication:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
-- 🛠️ **Portfolio:** [My Projects & Work](https://mrplexar.pythonanywhere.com)  
+- 🛠️ **Portfolio:** [PORTFOLIO](https://mrplexar.pythonanywhere.com)  
 - 📜 **Blogspots:**  
   - **Writes:** [Paradoxic World](https://paradoxicworld.blogspot.com)  
   - **Photography:** [Paradoxic Arc](https://paradoxicarc.blogspot.com)  
