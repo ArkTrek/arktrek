@@ -13,7 +13,7 @@
 
 🎙️ **Podcast:** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
 🎥 **YouTube Channels:**  
- - **Main Channel:** [Mr. Plexar](https://www.youtube.com/@mrplexar)  
+ - **Main Channel:** [MrPlexar](https://www.youtube.com/@mrplexar)  
  - **Gaming Channel:** [The Plexar](https://www.youtube.com/@theplexar2383)  
 
 📖 **Books Authored:**  
