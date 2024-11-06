@@ -4,7 +4,7 @@
 - 🌱 **Learning Journey:** Currently diving into Unreal Engine 3D for immersive experiences.  
 - 💬 **Ask Me About:** Anything related to computers, science, and tech!  
 - 🌍 **Google Maps(Alt) - My Version:** [ARMAPS](https://armaps.pythonanywhere.com)  
-- 📂 **Published Work:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
+- 📂 **Publication:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
 - 🛠️ **Portfolio:** [My Projects & Work](https://mrplexar.pythonanywhere.com)  
 - 📜 **Blogspots:**  
   - **Writes:** [Paradoxic World](https://paradoxicworld.blogspot.com)  
