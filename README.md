@@ -1,25 +1,25 @@
 # 💫 About Me:
-- 🔭 **Current Project:** I'm working on enhancing my Brain Disease Detection System (BDDS), designed to detect six different brain diseases using MRI images as input.  
-- 🤝 **Open to Collaboration:** I'd love to team up on AI/ML projects!  
-- 🌱 **Learning Journey:** Currently diving into Unreal Engine 3D for immersive experiences.  
-- 💬 **Ask Me About:** Anything related to computers, science, and tech!  
-- 🌍 **Google Maps(Alt) - My Version:** [ARMAPS](https://armaps.pythonanywhere.com)  
-- 📂 **Publication:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
-- 🛠️ **Portfolio:** [PORTFOLIO](https://mrplexar.pythonanywhere.com)  
-- 📜 **Blogspots:**  
-  - **Writes:** [Paradoxic World](https://paradoxicworld.blogspot.com)  
-  - **Photography:** [Paradoxic Arc](https://paradoxicarc.blogspot.com)  
-  - **Tech:** [Cybersyst](https://cybersyst.blogspot.com)  
-- 🎙️ **Podcast:** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
-- 🎥 **YouTube Channels:**  
-  - **Main Channel:** [Mr. Plexar](https://www.youtube.com/@mrplexar)  
-  - **Gaming Channel:** [The Plexar](https://www.youtube.com/@theplexar2383)  
-- 📖 **Books Authored:**  
-  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK)  
-  - [A Paradoxic Mind](https://a.co/d/b1xIwSh)
-- 🧶 **Our Saree Page:** [Lal Sutra on Instagram](https://instagram.com/lalsutraofficial)  
-- ☁️ **Telegram Channel:** [The Skies](https://t.me/theskis)  
-- 💼 **Resume:** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
+🔭 **Current Project:** I'm working on enhancing my Brain Disease Detection System (BDDS), designed to detect six different brain diseases using MRI images as input.  
+🤝 **Open to Collaboration:** I'd love to team up on AI/ML projects!  
+🌱 **Learning Journey:** Currently diving into Unreal Engine 3D for immersive experiences.  
+💬 **Ask Me About:** Anything related to computers, science, and tech!  
+🌍 **Google Maps(Alt) - My Version:** [ARMAPS](https://armaps.pythonanywhere.com)  
+📂 **Publication:** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
+🛠️ **Portfolio:** [PORTFOLIO](https://mrplexar.pythonanywhere.com)  
+📜 **Blogspots:**  
+ - **Writes:** [Paradoxic World](https://paradoxicworld.blogspot.com)  
+ - **Photography:** [Paradoxic Arc](https://paradoxicarc.blogspot.com)  
+ - **Tech:** [Cybersyst](https://cybersyst.blogspot.com)  
+🎙️ **Podcast:** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
+🎥 **YouTube Channels:**  
+ - **Main Channel:** [Mr. Plexar](https://www.youtube.com/@mrplexar)  
+ - **Gaming Channel:** [The Plexar](https://www.youtube.com/@theplexar2383)  
+📖 **Books Authored:**  
+ - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK)  
+ - [A Paradoxic Mind](https://a.co/d/b1xIwSh)
+🧶 **Our Saree Page:** [Lal Sutra on Instagram](https://instagram.com/lalsutraofficial)  
+☁️ **Telegram Channel:** [The Skies](https://t.me/theskis)  
+💼 **Resume:** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
 
 ⚡ **Fun Fact:** Did you know octopuses have three hearts?
 
