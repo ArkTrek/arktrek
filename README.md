@@ -14,7 +14,7 @@
 ☁️ **Telegram Channel -** [The Skies](https://t.me/theskis)  
 💼 **Resume -** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
 
-⚡ **Fun Fact -** Did you know octopuses have three hearts?
+⚡ **Fun Fact -** you're always surrounded by art! 
 
 ---
 
