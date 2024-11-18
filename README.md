@@ -10,7 +10,7 @@
 🎙️ **Podcast -** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
 🎥 **YouTube Channels -**  **Main Channel:** [MrPlexar](https://www.youtube.com/@mrplexar), **Gaming Channel:** [The Plexar](https://www.youtube.com/@theplexar2383)  
 📖 **Books Authored (Amazon KDP)-** [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK), [A Paradoxic Mind](https://a.co/d/b1xIwSh)  
-💻 **File Transfer System -** [pin2pin](https://p2p.pythonanywhere.com)
+💻 **File Transfer System -** [pin2pin](https://pin2pin.pythonanywhere.com/)
 
 🚀 **Startups -**  **Ramistry:** [Ramen Noodles](https://www.instagram.com/ramen.chemistry/), **Inputweb:** [Website Design Servicing](https://www.instagram.com/inputweb/) & **Lalsutra:** [Saree Brand](https://www.instagram.com/lalsutraofficial/)
 
