@@ -19,6 +19,8 @@
 
 ⚡ **Fun Fact -** you're always surrounded by art!
 
+
+ 📧  **Mail -** [bitstoday@gmail.com](mailto:bitstoday@gmail.com)
 ---
 
 
