@@ -16,11 +16,10 @@
 
 ☁️ **Telegram Channel -** [The Skies](https://t.me/theskis)  
 💼 **Resume -** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
+📧  **Mail -** [bitstoday@gmail.com](mailto:bitstoday@gmail.com)
 
 ⚡ **Fun Fact -** you're always surrounded by art!
 
-
- 📧  **Mail -** [bitstoday@gmail.com](mailto:bitstoday@gmail.com)
 ---
 
 
