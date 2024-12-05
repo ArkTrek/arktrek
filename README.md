@@ -15,7 +15,7 @@
 🚀 **Startups -**  *Ramistry:* [Ramen Noodles](https://www.instagram.com/ramen.chemistry/), *Inputweb:* [Website Design Servicing](https://www.instagram.com/inputweb/) & *Lalsutra:* [Saree Brand](https://www.instagram.com/lalsutraofficial/)
 
 ☁️ **Telegram Channel -** [The Skies](https://t.me/theskis)  
-💼 **Resume -** [View Here](https://drive.google.com/file/d/1hFwArvkPb04sPquIpmaL9BFpZCPBx-B7/view?usp=sharing)  
+💼 **Resume -** [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)
 📧  **Mail -** [bitstoday@gmail.com](mailto:bitstoday@gmail.com)
 
 ⚡ **Fun Fact -** you're always surrounded by art!
