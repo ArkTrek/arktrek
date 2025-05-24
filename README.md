@@ -47,7 +47,7 @@ Computers, science, and tech — feel free to reach out!
 [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)  
 
 📧 **Contact:**  
-[bitstoday@gmail.com](mailto:bitstoday@gmail.com)  
+[arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
 ---
 
