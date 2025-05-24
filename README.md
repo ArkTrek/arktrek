@@ -12,8 +12,7 @@ Exploring **Unreal Engine 3D** to create immersive experiences.
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
 
-📂 **Publication:**  
-[DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)
+📂 **Publication:** - [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)
 
 🛠️ **Portfolio & Creations:**  
 - **Blogspots:**  
