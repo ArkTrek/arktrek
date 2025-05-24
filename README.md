@@ -49,7 +49,6 @@ Computers, science, and tech — feel free to reach out!
 📧 **Contact:**  
 [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
----
 
 ⚡ **Fun Fact:** You're always surrounded by art!
 
