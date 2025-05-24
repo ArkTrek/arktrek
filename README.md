@@ -14,7 +14,7 @@ Computers, science, and tech — feel free to reach out!
 
 📂 **Publication:** - [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)
 
-🛠️ **Portfolio & Creations:**  
+🛠️ **Portfolio & Works:**  
 - **Blogspots:**  
   - [Paradoxic World (Writing)](https://paradoxicworld.blogspot.com)  
   - [Paradoxic Arc (Photography)](https://paradoxicarc.blogspot.com)  
