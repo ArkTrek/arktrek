@@ -16,27 +16,27 @@ Computers, science, and tech — feel free to reach out!
 
 🛠️ **Portfolio & Works:**  
 - **Blogspots:**  
-  - [Paradoxic World (Writing)](https://paradoxicworld.blogspot.com)  
-  - [Paradoxic Arc (Photography)](https://paradoxicarc.blogspot.com)  
+  - [Paradoxic World (Writing)](https://paradoxicworld.blogspot.com),
+  - [Paradoxic Arc (Photography)](https://paradoxicarc.blogspot.com),  
   - [Cybersyst (Tech)](https://cybersyst.blogspot.com)  
 - **Podcast:**  
   - [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
 - **YouTube Channels:**  
-  - [MrPlexar (Main)](https://www.youtube.com/@mrplexar)  
-  - [The Plexar (Gaming)](https://www.youtube.com/@theplexar2383)  
+  - [MrPlexar (Main)](https://www.youtube.com/@mrplexar),  
+  - [The Plexar (Gaming)](https://www.youtube.com/@theplexar2383),  
 - **Books (Amazon KDP):**  
-  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK)  
+  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK),  
   - [A Paradoxic Mind](https://a.co/d/b1xIwSh)  
 
 💻 **Webpages:**  
-- [PIN2PIN — File Transfer System](https://pine2pine.pythonanywhere.com/)  
-- [ARMAPS — Google Maps Alternative](https://armaps.pythonanywhere.com)  
-- [Personal Portfolio](https://mrplexar.pythonanywhere.com)  
+- [PIN2PIN — File Transfer System](https://pine2pine.pythonanywhere.com/),  
+- [ARMAPS — Google Maps Alternative](https://armaps.pythonanywhere.com),  
+- [Personal Portfolio](https://mrplexar.pythonanywhere.com),  
 - [DREAMTIE — Wedding Page](https://dreamtie.pythonanywhere.com/)  
 
 🚀 **Startups:**  
-- [Ramistry — Ramen Noodles](https://www.instagram.com/ramen.chemistry/)  
-- [Inputweb — Website Design](https://www.instagram.com/inputweb/)  
+- [Ramistry — Ramen Noodles](https://www.instagram.com/ramen.chemistry/),  
+- [Inputweb — Website Design](https://www.instagram.com/inputweb/),  
 - [Lalsutra — Saree Brand](https://www.instagram.com/lalsutraofficial/)  
 
 ☁️ **Telegram Channel:** - [The Skies](https://t.me/theskis)  
