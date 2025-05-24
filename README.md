@@ -1,25 +1,58 @@
-# 💫 About Me:
-🔭 **Current Project -** I'm working on enhancing my Brain Disease Detection System (BDDS), designed to detect six different brain diseases using MRI images as input.  
-🤝 **Open to Collaboration -** I'd love to team up on AI/ML projects!  
-🌱 **Learning Journey -** Currently diving into Unreal Engine 3D for immersive experiences.  
-💬 **Ask Me About -** Anything related to computers, science, and tech!  
-📂 **Publication -** [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)  
-🛠️ **Portfolio -** 
-📜 **Blogspots -**  *Writes:* [Paradoxic World](https://paradoxicworld.blogspot.com), *Photography:* [Paradoxic Arc](https://paradoxicarc.blogspot.com), *Tech:* [Cybersyst](https://cybersyst.blogspot.com)  
-🎙️ **Podcast -** [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
-🎥 **YouTube Channels -**  *Main Channel:* [MrPlexar](https://www.youtube.com/@mrplexar), *Gaming Channel:* [The Plexar](https://www.youtube.com/@theplexar2383)  
-📖 **Books Authored (Amazon KDP)-** [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK), [A Paradoxic Mind](https://a.co/d/b1xIwSh) 
+# 💫 About Me
 
-💻 **Webpages -** *File Transfer System* - [PIN2PIN](https://pine2pine.pythonanywhere.com/), *Google Maps Alternative* - [ARMAPS](https://armaps.pythonanywhere.com), *Personal Portfolio Page* - [PORTFOLIO](https://mrplexar.pythonanywhere.com), *Wedding Page* - [DREAMTIE](https://dreamtie.pythonanywhere.com/)
+🔭 **Current Project:**  
+Enhancing my **Brain Disease Detection System (BDDS)**, which detects six brain diseases from MRI images.
 
-🚀 **Startups -**  *Ramistry:* [Ramen Noodles](https://www.instagram.com/ramen.chemistry/), *Inputweb:* [Website Design Servicing](https://www.instagram.com/inputweb/) & *Lalsutra:* [Saree Brand](https://www.instagram.com/lalsutraofficial/)
+🤝 **Open to Collaboration:**  
+Always excited to team up on AI/ML projects!
 
-☁️ **Telegram Channel -** [The Skies](https://t.me/theskis)  
-💼 **Resume -** [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)
+🌱 **Learning Journey:**  
+Exploring **Unreal Engine 3D** to create immersive experiences.
 
-📧  **Mail -** [bitstoday@gmail.com](mailto:bitstoday@gmail.com)
+💬 **Ask Me About:**  
+Computers, science, and tech — feel free to reach out!
 
-⚡ **Fun Fact -** you're always surrounded by art!
+📂 **Publication:**  
+[DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)
+
+🛠️ **Portfolio & Creations:**  
+- **Blogspots:**  
+  - [Paradoxic World (Writing)](https://paradoxicworld.blogspot.com)  
+  - [Paradoxic Arc (Photography)](https://paradoxicarc.blogspot.com)  
+  - [Cybersyst (Tech)](https://cybersyst.blogspot.com)  
+- **Podcast:**  
+  - [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
+- **YouTube Channels:**  
+  - [MrPlexar (Main)](https://www.youtube.com/@mrplexar)  
+  - [The Plexar (Gaming)](https://www.youtube.com/@theplexar2383)  
+- **Books (Amazon KDP):**  
+  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK)  
+  - [A Paradoxic Mind](https://a.co/d/b1xIwSh)  
+
+💻 **Webpages:**  
+- [PIN2PIN — File Transfer System](https://pine2pine.pythonanywhere.com/)  
+- [ARMAPS — Google Maps Alternative](https://armaps.pythonanywhere.com)  
+- [Personal Portfolio](https://mrplexar.pythonanywhere.com)  
+- [DREAMTIE — Wedding Page](https://dreamtie.pythonanywhere.com/)  
+
+🚀 **Startups:**  
+- [Ramistry — Ramen Noodles](https://www.instagram.com/ramen.chemistry/)  
+- [Inputweb — Website Design](https://www.instagram.com/inputweb/)  
+- [Lalsutra — Saree Brand](https://www.instagram.com/lalsutraofficial/)  
+
+☁️ **Telegram Channel:**  
+[The Skies](https://t.me/theskis)  
+
+💼 **Resume:**  
+[View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)  
+
+📧 **Contact:**  
+[bitstoday@gmail.com](mailto:bitstoday@gmail.com)  
+
+---
+
+⚡ **Fun Fact:** You're always surrounded by art!
+
 
 ---
 
