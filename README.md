@@ -14,9 +14,9 @@ Computers, science, and tech — feel free to reach out!
 
 🏆 **Works** - [Link](https://arpitramesan.pythonanywhere.com/)
 
-💼 **Resume:** - [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)  
+💼 **Resume** - [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)  
 
-📧 **Contact:** - [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
+📧 **Contact** - [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
 
 ⚡ **Fun Fact:** You're always surrounded by art!
