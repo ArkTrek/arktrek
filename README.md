@@ -12,34 +12,7 @@ Exploring **Unreal Engine 3D** to create immersive experiences.
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
 
-📂 **Publication:** - [DDoS Attack Detection System for WhatsApp](https://ijnrd.org/papers/IJNRD2306421.pdf)
-
-🛠️ **Portfolio & Works:**  
-- **Blogspots:**  
-  - [Paradoxic World (Writing)](https://paradoxicworld.blogspot.com),
-  - [Paradoxic Arc (Photography)](https://paradoxicarc.blogspot.com),  
-  - [Cybersyst (Tech)](https://cybersyst.blogspot.com)  
-- **Podcast:**  
-  - [Arpit's Podcast](https://spoti.fi/3WnUHOg)  
-- **YouTube Channels:**  
-  - [MrPlexar (Main)](https://www.youtube.com/@mrplexar),  
-  - [The Plexar (Gaming)](https://www.youtube.com/@theplexar2383),  
-- **Books (Amazon KDP):**  
-  - [Words Untold, Worlds Unknown](https://amzn.in/d/0ax8z8RK),  
-  - [A Paradoxic Mind](https://a.co/d/b1xIwSh)  
-
-💻 **Webpages:**  
-- [PIN2PIN — File Transfer System](https://pine2pine.pythonanywhere.com/),  
-- [ARMAPS — Google Maps Alternative](https://armaps.pythonanywhere.com),  
-- [Personal Portfolio](https://mrplexar.pythonanywhere.com),  
-- [DREAMTIE — Wedding Page](https://dreamtie.pythonanywhere.com/)  
-
-🚀 **Startups:**  
-- [Ramistry — Ramen Noodles](https://www.instagram.com/ramen.chemistry/),  
-- [Inputweb — Website Design](https://www.instagram.com/inputweb/),  
-- [Lalsutra — Saree Brand](https://www.instagram.com/lalsutraofficial/)  
-
-☁️ **Telegram Channel:** - [The Skies](https://t.me/theskis)  
+🏆 **Works** - [Link](https://arpitramesan.pythonanywhere.com/)
 
 💼 **Resume:** - [View Here](https://drive.google.com/file/d/1iLsPtHyThgRQ3J9c7GwibcZjpqsi0kIX/view?usp=sharing)  
 
