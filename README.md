@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **Current Project:**  
-Enhancing my **Brain Disease Detection System (BDDS)**, which detects six brain diseases from MRI images.
+Enhancing my **Blood Cancer Detection System(BCDS)**, which detects six brain diseases from MRI images.
 
 🤝 **Open to Collaboration:**  
 Always excited to team up on AI/ML projects!
