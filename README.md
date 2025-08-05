@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **Current Project:**  
-Enhancing my **Blood Cancer Detection System(BCDS)**, which detects six brain diseases from MRI images.
+Enhancing my **Blood Cancer Detection System(BCDS)**, which utilizes deep CNN architecture for taking in blood cell image data as input and based on the blood cell counts detected predicts a possible chance of Blood Cancer(If any).
 
 🤝 **Open to Collaboration:**  
 Always excited to team up on AI/ML projects!
