@@ -3,11 +3,11 @@
 🔭 **Current Project:**  
 Enhancing my **Blood Cancer Detection System(BCDS)**, which utilizes deep CNN architecture for taking in blood cell image data as input and based on the blood cell counts detected predicts a possible chance of Blood Cancer(If any).
 
-🤝 **Open to Collaboration:**  
-Always excited to team up on AI/ML projects!
-
 🌱 **Learning Journey:**  
 Exploring **Various frameworks of companies** to create Customer centered products that make impact in daily lives.
+
+🤝 **Open to Collaboration:**  
+Always excited to team up on AI/ML projects!
 
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
