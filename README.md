@@ -12,9 +12,11 @@ Always excited to team up on AI/ML projects!
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
 
-🏆 **Work Compilations** - [Link](https://arpitramesan.pythonanywhere.com/)
+🏆 **Work Compilations**
+[Flask App Link](https://arpitramesan.pythonanywhere.com/)
 
-💼 **Resume** - [View Here](https://drive.google.com/file/d/1QJWf5WUPrECffwI6ximhWk1xE2WSOhIH/view?usp=sharing)  
+💼 **Resume**
+[Download Now and learn more!](https://drive.google.com/file/d/1QJWf5WUPrECffwI6ximhWk1xE2WSOhIH/view?usp=sharing)  
 
 📧 **Contact** - [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
