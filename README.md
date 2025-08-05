@@ -7,7 +7,7 @@ Enhancing my **Blood Cancer Detection System(BCDS)**, which utilizes deep CNN ar
 Always excited to team up on AI/ML projects!
 
 🌱 **Learning Journey:**  
-Exploring **Unreal Engine 3D** to create immersive experiences.
+Exploring **Various frameworks of companies** to create Customer centered products that make impact in daily lives.
 
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
