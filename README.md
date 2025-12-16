@@ -16,7 +16,7 @@ Computers, science, and tech — feel free to reach out!
 [Flask App Link](https://arpitramesan.pythonanywhere.com/)
 
 💼 **Resume:**
-[Download Now and learn more!](https://drive.google.com/file/d/1cPjSgV2jnSmvVf2_SMUXQv2gtRFkYGA9/view?usp=sharing))  
+[Download Now and learn more!](https://drive.google.com/file/d/1cPjSgV2jnSmvVf2_SMUXQv2gtRFkYGA9/view)
 
 📧 **Contact:** [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
