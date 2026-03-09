@@ -12,7 +12,7 @@ Always excited to team up on AI/ML projects!
 💬 **Ask Me About:**  
 Computers, science, and tech — feel free to reach out!
 
-🏆 **Work Compilations:**
+🏆 **Journey So far:**
 [Portfolio](https://arpitramesansportfolio.pythonanywhere.com/)
 
 💼 **Resume:**
