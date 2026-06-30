@@ -17,7 +17,7 @@ I am an **AI/ML Engineer** and **GenAI Specialist** with a solid foundation in c
 [Portfolio: Neural Hub](https://arpitramesansportfolio.pythonanywhere.com/)
 
 💼 **Resume:**
-[Execute Resume & Learn More](https://drive.google.com/file/d/1cPjSgV2jnSmvVf2_SMUXQv2gtRFkYGA9/view)
+[Learn More](https://drive.google.com/file/d/1cPjSgV2jnSmvVf2_SMUXQv2gtRFkYGA9/view)
 
 📧 **Contact:** [arpitramesan777@gmail.com](mailto:arpitramesan777@gmail.com)  
 
