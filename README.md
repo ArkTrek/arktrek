@@ -13,7 +13,9 @@
 I am an AI/ML Engineer and GenAI Specialist with a solid foundation in computer vision, real-time cybersecurity systems, and Generative AI workflows. Currently, I am expanding my scope to become an AI Generalist, actively architecting and orchestrating autonomous AI agents to build intelligent, multi-step applications.
 
 🔭 &nbsp;I'm currently working on **AI Agency Agent: Building an autonomous agentic tool utilizing the Gemini API to automatically generate custom webpages for local businesses.**  
+
 🌱 &nbsp;I'm currently learning **Transitioning from traditional machine learning deployments to orchestrating autonomous AI agents, LLM RAG pipelines, and multi-step generative workflows.**  
+
 ⚡ &nbsp;Fun fact: **You're always surrounded by art—whether it's on a canvas or rendered by a neural network!**
 
 ### 🛠️ Tech Stack
