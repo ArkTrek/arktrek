@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arktrek">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=986&text=Hello!%20I'm%20an%20AI%2FML%20ENgineer" alt="Hello! I&#39;m an AI/ML ENgineer" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=986&text=Hello!%20I'm%20an%20AI%2FML%20Engineer" alt="Hello! I&#39;m an AI/ML Engineer" />
   </a>
 </p>
 
